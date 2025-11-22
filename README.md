@@ -107,5 +107,5 @@ I explore both backend architecture and frontend interactions to understand how 
 ---
 
 <div align="center">
-  <h4>Thanks for visiting! 🚀</h4>
+  <h4>Thanks for visiting! </h4>
 </div>
