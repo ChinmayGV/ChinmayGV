@@ -78,7 +78,7 @@ I explore both backend architecture and frontend interactions to understand how 
 - 🏘 **Listing Management** (CRUD with validation)  
 - 🗺 **Interactive Maps** with Leaflet  
 - 🗂 **Scalable MVC file structure**  
-- 📸 Image upload & storage (if included in your build)
+- 📸 Image upload & storage 
 
 ---
 
