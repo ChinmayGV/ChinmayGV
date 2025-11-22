@@ -33,7 +33,7 @@ I explore both backend architecture and frontend interactions to understand how 
 
 ### 🧠 Skills & Knowledge
 - **Intermediate DSA** (with practical problem-solving experience)
-  - *BST • Stack • Queue • ArrayList • LinkedList • HashMap • Graphs*
+  - •Binary Search Trees • Stack • Queue • ArrayList • LinkedList • HashMap • Graphs*
 - Comfortable with:
   - **Node.js**, **Express**, **MongoDB**, **Mongoose**, **REST APIs**
   - Building clean MVC architectures
