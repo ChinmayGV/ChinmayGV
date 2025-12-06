@@ -90,7 +90,7 @@ I explore both backend architecture and frontend interactions to understand how 
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **ProPrompt AI** | Intelligent tool that generates optimized prompts based on user inputs. | `AI Integration` `JS` | [💻 Code](https://github.com/ChinmayGV/proprompt-generator333)<br> [🚀 Live](YOUR_LIVE_LINK) |
+| **ProPrompt AI** | Intelligent tool that generates optimized prompts based on user inputs. | `AI Integration` `JS` | [💻 Code](https://github.com/ChinmayGV/proprompt-generator333)<br> [🚀 Live](https://proprompt-generator333-6sd8.vercel.app/) |
 | **Simon Says Game** | Classic memory sequence game built with pure logic and DOM manipulation. | `HTML5` `CSS3` `JS` | [💻 Code](https://github.com/ChinmayGV/MINI_PROJECT_simon_game)<br> [🚀 Live](https://proprompt-generator333-6sd8.vercel.app/) |
 
 ---
