@@ -95,15 +95,9 @@ I explore both backend architecture and frontend interactions to understand how 
 
 ---
 
-## 📊 GitHub & LeetCode Stats
+## 📊 LeetCode Stats
 
-<div align="center">
 
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| <a href="https://github.com/ChinmayGV"><img src="https://github-readme-stats.vercel.app/api?username=ChinmayGV&show_icons=true&theme=tokyonight&hide_border=true" width="380" /></a> | <a href="https://github.com/ChinmayGV"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayGV&layout=compact&theme=tokyonight&hide_border=true" width="300" /></a> |
-
-</div>
 
 <br/>
 
