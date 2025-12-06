@@ -3,10 +3,9 @@
   <h3>Full Stack Developer | MERN Stack Enthusiast</h3>
   <p>
     I love building fast, scalable, real-world web applications.  
-    Currently crafting a complete Airbnb-style project — <b>WanderlusT</b>.
+    Creator of the fully featured Airbnb-style platform — <b>WanderlusT</b>.
   </p>
 
-  <!-- Links -->
   <p>
     <a href="mailto:vernekarchinmay11@gmail.com">
       <img src="https://img.shields.io/badge/Email-vernekarchinmay11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -28,7 +27,7 @@ I’m a MERN-focused full stack developer passionate about building apps that fe
 I explore both backend architecture and frontend interactions to understand how everything fits together.
 
 ### 🔥 What I'm Working On
-- Building **Wanderlust** — a full Airbnb clone (auth, listings, CRUD, maps, UI).
+- **Aquify** — A water can delivery app(for mobile , laptop).
 - Improving my **DSA** foundations to write cleaner and faster logic.
 
 ### 🧠 Skills & Knowledge
@@ -64,6 +63,13 @@ I explore both backend architecture and frontend interactions to understand how 
 
 > A fully functional travel marketplace where users can list, explore, and book stays worldwide.
 
+<div align="left"> 
+  <a href="https://wanderlust-five-dun.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-FF5A5F?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+</div>
+
+
 ### 🧩 Tech Stack
 | Category | Technologies |
 |---------|--------------|
@@ -76,8 +82,16 @@ I explore both backend architecture and frontend interactions to understand how 
 - 🔐 **Authentication & Authorization** (secure login/signup)  
 - 🏘 **Listing Management** (CRUD with validation)  
 - 🗺 **Interactive Maps** with Leaflet  
-- 🗂 **Scalable MVC file structure**  
-- 📸 Image upload & storage 
+- 🗂 **Scalable MVC file structure** - 📸 Image upload & storage 
+
+---
+
+## 📂 Other Notable Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **ProPrompt AI** | Intelligent tool that generates optimized prompts based on user inputs. | `AI Integration` `JS` | [💻 Code](https://github.com/ChinmayGV/proprompt-generator333)<br> [🚀 Live](YOUR_LIVE_LINK) |
+| **Simon Says Game** | Classic memory sequence game built with pure logic and DOM manipulation. | `HTML5` `CSS3` `JS` | [💻 Code](https://github.com/ChinmayGV/MINI_PROJECT_simon_game)<br> [🚀 Live](https://proprompt-generator333-6sd8.vercel.app/) |
 
 ---
 
