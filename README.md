@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Hi, I'm Chinmay 👋</h1>
-  <h3>Full Stack Developer | MERN Stack Enthusiast</h3>
-  <p>
-    I love building fast, scalable, real-world web applications.  
-    Creator of the fully featured Airbnb-style platform — <b>WanderlusT</b>.
-  </p>
+<h1 align="center">Hi, I'm Chinmay 👋</h1>
+<h3 align="center">Full Stack Developer</h3>
+<p align="center">
+  I specialize in building fast, scalable, real-world web applications using the MERN stack. 
+ 
+</p>
 
   <p>
     <a href="mailto:vernekarchinmay11@gmail.com">
