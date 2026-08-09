@@ -102,7 +102,7 @@ I explore both backend architecture and frontend interactions to understand how 
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.com/chinmay333leetcode/">
+  <a href="https://leetcode.com/chinmaygv/">
     <img 
       src="https://leetcard.jacoblin.cool/chinmay333leetcode?theme=dark&font=inter" 
       width="380"
